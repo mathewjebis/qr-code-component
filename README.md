@@ -21,7 +21,7 @@ This is my solution to the [QR code component challenge on Frontend Mentor](http
 
 ### Links
 
-- Solution URL: [Add after submitting](https://your-solution-url.com)
+- Solution URL: [QR Code Component](https://www.frontendmentor.io/solutions/qr-code-component-using-html-css-and-flexbox-l1fnDFv0f1)
 - Live Site URL: [https://mathewjebis.github.io/qr-code-component](https://mathewjebis.github.io/qr-code-component/)
 
 ## My process
